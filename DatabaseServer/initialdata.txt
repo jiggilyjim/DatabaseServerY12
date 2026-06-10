@@ -20,6 +20,8 @@ INSERT INTO Person
         ('John', 'Visual', 'Studio', 'password',4)
         ('Henry', 'Galitz', 'baanaanaa', 'referencehahahahahaha', 1)
         ('Hey', 'You', 'Stop', 'READINGTHIS!')
+        ('Four kings, four queens and four jacks', 'walk into a bar', 'the bartender goes', 'What is this, a joke?')
+
 
 CREATE TABLE Payment (
     PaymentID INTEGER PRIMARY KEY,
