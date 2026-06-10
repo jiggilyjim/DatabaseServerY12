@@ -53,3 +53,4 @@ INSERT INTO Job
         (3, 'Manager', 20),
         (4, 'Chancellor', 100),
         (5, 'Unemployed', 0),
+        (6, 'shopper', -10);
