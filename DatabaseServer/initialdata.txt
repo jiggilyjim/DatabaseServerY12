@@ -16,11 +16,11 @@ INSERT INTO Person
         ('Zulkifl', 'Khan', 'khanz', 'kiwi8', 3),
         ('Matthew', 'Musk', 'muskm', 'apple1', 1),
         ('Daniel', 'Geng', 'jigglyjim', 'banana', 3)
-        ('The', 'Bank', 'banker', 'secret', 4);
+        ('The', 'Bank', 'banker', 'secret', 4),
         ('John', 'Visual', 'Studio', 'password',4)
         ('Henry', 'Galitz', 'baanaanaa', 'referencehahahahahaha', 1)
         ('Hey', 'You', 'Stop', 'READINGTHIS!')
-        ('Four kings, four queens and four jacks', 'walk into a bar', 'the bartender goes', 'What is this, a joke?', 1)
+        ('Four kings, four queens and four jacks', 'walk into a bar', 'the bartender goes', 'What is this, a joke?', 1);
 
 
 CREATE TABLE Payment (
@@ -51,4 +51,5 @@ INSERT INTO Job
         (1, 'Road Sweeper', 10),
         (2, 'Pothole filler', 15),
         (3, 'Manager', 20),
-        (4, 'Chancellor', 100);
+        (4, 'Chancellor', 100),
+        (5, 'Unemployed', 0),
