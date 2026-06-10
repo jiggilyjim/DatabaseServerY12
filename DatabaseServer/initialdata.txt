@@ -19,6 +19,7 @@ INSERT INTO Person
         ('The', 'Bank', 'banker', 'secret', 4);
         ('John', 'Visual', 'Studio', 'password',4)
         ('Henry', 'Galitz', 'baanaanaa', 'referencehahahahahaha', 1)
+        ('Hey', 'You', 'Stop', 'READINGTHIS!')
 
 CREATE TABLE Payment (
     PaymentID INTEGER PRIMARY KEY,
